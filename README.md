@@ -2,7 +2,7 @@
 Code accompanying the project Non-stationary Inference of the Parameters of Theoretical Reinforcement Learning Models - Interpreting Human Behavior in MAB task
 
 ## Behavioral Dataset 
-The behavioral dataset can be found in the paper *Models that learn how humans learn: The case of decision-making and its disorders - Dezfouli et al. (2019)*
+The behavioral dataset can be found in the paper *Models that learn how humans learn: The case of decision-making and its disorders - Dezfouli et al. (2019)*.
 https://figshare.com/articles/dataset/Models_that_learn_how_humans_learn_The_case_of_decision-making_and_its_disorders/8257259
 
 ## Artificial
